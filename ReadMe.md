@@ -1,9 +1,17 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/88/5a/57/885a5740c6ba58f0b8f98a7a0d6d55a0.gif" width="100%" />
 </p>
-# 💫 About Me:
-🌱 I’m currently learning<br><br>Web Development, Edge Computing, C#, C++, and RAG (Retrieval-Augmented Generation) Optimization. 🚀<br>💬 Ask me about<br><br>Data Cleaning with Python, Pandas, C# basics, and enhancing data for AI/RAG systems. ☕<br>🔭 I’m currently working on<br><br>Building a solid Data Cleaning Portfolio and exploring data structures in C++. 🛠️
+<h1 align="center">
+  <samp>⌘ K A N C O</samp>
+</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=data+%C2%B7+ai+%C2%B7+systems;nothing+is+perfect;cleaning+the+void...;system+online" />
+</p>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/99/d7/37/99d7373cb766d795dfc42965612c3f87.gif" width="100%" height="1px" />
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fenix_theoneaboveall) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wokeup.hmz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tirb0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sirdablight@gmail.com) 
