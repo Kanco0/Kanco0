@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/88/5a/57/885a5740c6ba58f0b8f98a7a0d6d55a0.gif" width="100%" />
+</p>
 # 💫 About Me:
 🌱 I’m currently learning<br><br>Web Development, Edge Computing, C#, C++, and RAG (Retrieval-Augmented Generation) Optimization. 🚀<br>💬 Ask me about<br><br>Data Cleaning with Python, Pandas, C# basics, and enhancing data for AI/RAG systems. ☕<br>🔭 I’m currently working on<br><br>Building a solid Data Cleaning Portfolio and exploring data structures in C++. 🛠️
 
