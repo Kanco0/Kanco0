@@ -12,6 +12,8 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/99/d7/37/99d7373cb766d795dfc42965612c3f87.gif" width="100%" height="1px" />
 </div>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=700&color=00FF41&center=true&vCenter=true&width=1000&lines=%5BKanco%40Root+~%5D%24+exec+--task+%22Cleaning+Data%22+--build+%223D+Worlds%22+--deploy+%22Web%22+--optimize+%22RAG_Context%22+--status+%22COMPILING_SOULS%22"/> </p>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fenix_theoneaboveall) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wokeup.hmz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tirb0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sirdablight@gmail.com) 
